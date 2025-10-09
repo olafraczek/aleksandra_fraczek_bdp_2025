@@ -1,1 +1,2 @@
 zmiana pierwsza 
+zmiana druga
