@@ -1,2 +1,2 @@
-zmiana pierwsza 
-zmiana druga
+CREATE DATABASE firma;
+
